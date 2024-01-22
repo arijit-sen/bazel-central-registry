@@ -2,6 +2,11 @@
     "homepage": "https://docs.aspect.build/rules/aspect_bazel_lib",
     "maintainers": [
         {
+            "name": "Arijit Sen",
+            "email": "arijit.sen@machanirobotics.com",
+            "github": "arijit-sen"
+        },
+        {
             "name": "Alex Eagle",
             "email": "alex@aspect.dev",
             "github": "alexeagle"
@@ -13,7 +18,7 @@
         }
     ],
     "repository": [
-        "github:aspect-build/bazel-lib"
+        "github:arijit-sen/bazel-lib"
     ],
     "versions": [
         "0.4.2",
