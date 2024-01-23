@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-prgYwdszvbYOFLRGQI3XITBxaRv1RVXhwzip2XGK/KM=",
+    "strip_prefix": "helloworld-0.0.8",
+    "url": "https://github.com/arijit-sen/helloworld/archive/refs/tags/v0.0.8.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-rJh2WMGtqdo+61onVRMETe3nYlpHZOxhn2qd8z/bN9w="
+    },
+    "patch_strip": 1
+}
