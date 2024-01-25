@@ -1,0 +1,14 @@
+===================================================================
+--- a/MODULE.bazel
++++ b/MODULE.bazel
+@@ -1,9 +1,9 @@
+ """ Module file for Protoverse """
+ 
+ module(
+     name = "protoverse",
+-    version = "0.1.0",
++    version = "0.0.1-yank",
+     compatibility_level = 1,
+ )
+ 
+ # Development dependency
