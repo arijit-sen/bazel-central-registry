@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-8RchTSr6tkLITneVdbAmbukHn8OaUi8uDTF8s+Em14o=",
+    "strip_prefix": "rules_python-6.0.1",
+    "url": "https://github.com/arijit-sen/rules_python/archive/refs/tags/v6.0.1.zip",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-GPhMploi9YRlGkyXZW1uUEbpJo++7ghU+DyoraJ7M74="
+    },
+    "patch_strip": 1
+}
