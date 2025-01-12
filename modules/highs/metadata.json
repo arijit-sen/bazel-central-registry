@@ -1,0 +1,21 @@
+{
+    "homepage": "https://github.com/ERGO-Code/HiGHS",
+    "maintainers": [
+        {
+            "email": "galabovaa@gmail.com",
+            "github": "galabovaa",
+            "name": "Ivet Galabova"
+        }
+    ],
+    "repository": [
+        "github:ERGO-Code/HiGHS"
+    ],
+    "versions": [
+        "1.7.0",
+        "1.8.0",
+        "1.8.1",
+        "1.8.1.bcr.1",
+        "1.9.0"
+    ],
+    "yanked_versions": {}
+}

@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/oxidase/ofiuco",
+    "maintainers": [
+        {
+            "email": "michael.krasnyk@gmail.com",
+            "github": "oxidase",
+            "name": "Michael Krasnyk"
+        }
+    ],
+    "repository": [
+        "github:oxidase/ofiuco"
+    ],
+    "versions": [
+        "0.3.7",
+        "0.4.1"
+    ],
+    "yanked_versions": {}
+}
