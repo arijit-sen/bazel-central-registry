@@ -1,0 +1,18 @@
+{
+    "homepage": "INSERT_YOUR_HOMEPAGE",
+    "maintainers": [
+        {
+            "name": "Arijit Sen",
+            "email": "arijit-sen@machanirobotics.com",
+            "github": "arijit-sen"
+        }
+    ],
+    "repository": [
+        "github:arijit-sen/protoverse"
+    ],
+    "versions": [
+        "0.0.1-yank",
+        "0.0.2"
+    ],
+    "yanked_versions": {}
+}
