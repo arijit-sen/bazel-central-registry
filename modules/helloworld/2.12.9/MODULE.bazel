@@ -1,0 +1,5 @@
+module(
+    name = "helloworld",
+    version = "2.12.9",
+    compatibility_level = 1,
+)
