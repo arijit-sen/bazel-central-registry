@@ -13,9 +13,10 @@
         }
     ],
     "repository": [
-        "github:bazelbuild/rules_python"
+        "github:arijit-sen/rules_python"
     ],
     "versions": [
+        "0.0.8",
         "0.4.0",
         "0.10.2",
         "0.12.0",
