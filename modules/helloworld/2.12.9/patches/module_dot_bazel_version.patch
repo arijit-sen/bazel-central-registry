@@ -1,0 +1,10 @@
+===================================================================
+--- a/MODULE.bazel
++++ b/MODULE.bazel
+@@ -1,5 +1,5 @@
+ module(
+     name = "helloworld",
+-    version = "0.0.1",
++    version = "2.12.9",
+     compatibility_level = 1,
+ )
