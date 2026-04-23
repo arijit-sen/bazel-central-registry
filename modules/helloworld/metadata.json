@@ -1,0 +1,17 @@
+{
+    "homepage": "INSERT_YOUR_HOMEPAGE",
+    "maintainers": [
+        {
+            "name": "Arijit Sen",
+            "email": "arijit-sen@machanirobotics.com",
+            "github": "arijit-sen"
+        }
+    ],
+    "repository": [
+        "github:arijit-sen/helloworld"
+    ],
+    "versions": [
+        "2.12.9"
+    ],
+    "yanked_versions": {}
+}
