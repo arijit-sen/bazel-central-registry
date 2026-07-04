@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-cf2Q6SDtnUba5YIt4F98pmsxurTNRUx2oXIKC/4RIgg=",
+    "strip_prefix": "protoverse-0.0.1-yank",
+    "url": "https://github.com/arijit-sen/protoverse/archive/refs/tags/v0.0.1-yank.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-FfqgnWvy89lUsGOkzDrowoCt/plikQekfjaUcIQsds0="
+    },
+    "patch_strip": 1
+}
