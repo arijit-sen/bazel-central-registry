@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-usR1kbKmnDoZoYNF98rt9w9GT0LS+qNX1pG4RQxsJoc=",
+    "strip_prefix": "protoverse-0.0.2",
+    "url": "https://github.com/arijit-sen/protoverse/archive/refs/tags/v0.0.2.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-3Ry6yBo3SuYbFktfFkvOMY4w0TXwXUDU3w1W3Y8CxeA="
+    },
+    "patch_strip": 1
+}
