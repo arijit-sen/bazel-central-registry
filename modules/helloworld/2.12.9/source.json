@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-rZUMP5uOAUcNNHBLL1uXSTvfWYaPI6yLM6VGCCkO2g0=",
+    "strip_prefix": "helloworld-2.12.9",
+    "url": "https://github.com/arijit-sen/helloworld/archive/refs/tags/v2.12.9.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-bEIJzJZ+BaYyxHJRunEjwZAyaA89RaDV6kbY+j4X+l4="
+    },
+    "patch_strip": 1
+}
